@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { getSizes } from "../../services/api";
 import { List } from "../ProductDetailsPage/ProductDetailsPage.styled";
-import { ListItem } from "../ProductsPage/ProductsPage.styled";
 import "./style.css";
 
 export default function Sizes({ productSizes, colorId }) {
