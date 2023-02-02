@@ -1,0 +1,9 @@
+.Color__button {
+  margin-right: 15px;
+  background-color: aqua;
+}
+
+.Color__button--active {
+  background-color: red;
+  color: white;
+}
